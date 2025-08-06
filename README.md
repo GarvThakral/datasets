@@ -64,7 +64,7 @@ Follow the installation pages of TensorFlow and PyTorch to see how to install th
 
 For more details on installation, check the installation page in the documentation: https://huggingface.co/docs/datasets/installation
 
-## Installation to use with Machine Learning & Data frameworks frameworks
+## Installation to use with Machine Learning & Data frameworks
 
 If you plan to use 🤗 Datasets with PyTorch (2.0+), TensorFlow (2.6+) or JAX (3.14+) you should also install PyTorch, TensorFlow or JAX.
 🤗 Datasets is also well integrated with data frameworks like PyArrow, Pandas, Polars and Spark, which should be installed separately.
